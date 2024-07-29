@@ -59,8 +59,9 @@ cd static
 
 mkdir images
 ```
-The file structure now should look like this:
 
+The file structure now should look like this:
+```
 nutripix-api/
 │
 │ ── app
@@ -70,8 +71,9 @@ nutripix-api/
 .
 .
 .
+```
 
-8.Start the uvicorn server:
+8. Start the uvicorn server:
 ```bash
   uvicorn app.main:app
 ```
