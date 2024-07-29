@@ -11,7 +11,7 @@ NutriPix API is an API based on the NutriPix App.
 
 List of operations you can do :
 
-**Authentication:**
+**Auth:**
 - Login.
 - Logout.
 
